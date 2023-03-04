@@ -18,6 +18,7 @@ To use this program, follow these steps:
 5. Open a terminal or command prompt and navigate to the directory containing the discord_webhook.py file.
 6. Enter the following command to run the program:
 > python discord_webhook.py
+
 7.The program will then send the message to the Discord webhook 50 times. The program will print out whether each message was successfully sent or not.
 
 **Limitations**
