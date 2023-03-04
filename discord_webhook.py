@@ -11,7 +11,7 @@ data = {
     'content': message
 }
 
-# POST isteği gönderiliyor 50 defa
+# POST requesting sending 50 times
 for i in range(50):
     response = requests.post(your_webhook_url, json=data)
     if response.status_code == 204:
