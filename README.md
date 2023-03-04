@@ -12,18 +12,12 @@ pip install requests
 To use this program, follow these steps:
 
 1. Open a text editor and copy the code into a new Python file (e.g. discord_webhook.py).
-
 2. Replace the your_webhook_url variable with your own Discord webhook URL. You can create a new webhook in your Discord server settings.
-
 3. Replace the message variable with your own message.
-
 4. Save the file.
-
 5. Open a terminal or command prompt and navigate to the directory containing the discord_webhook.py file.
-
 6. Enter the following command to run the program:
 > python discord_webhook.py
-
 7.The program will then send the message to the Discord webhook 50 times. The program will print out whether each message was successfully sent or not.
 
 **Limitations**
